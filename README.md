@@ -3,9 +3,6 @@ This is a list of resources which coastal engineers and scientists might find us
 
 
 ### Contents
-- [awesome-coastal](#awesome-coastal)
-    - [Contents](#contents)
-    - [Contributing](#contributing)
   - [Tools, software, scripts and packages](#tools-software-scripts-and-packages)
     - [Beach erosion](#beach-erosion)
     - [Wave runup](#wave-runup)
