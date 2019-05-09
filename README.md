@@ -11,6 +11,7 @@ This is a list of resources which coastal engineers and scientists might find us
   - [Data](#data)
     - [Global](#global)
     - [Australia](#australia)
+    - [USA](#usa)
   - [Community](#community)
     - [Mailing lists](#mailing-lists)
 
@@ -35,6 +36,8 @@ You pull request or issue should provide a link to a resource and a description 
 ### Wave runup
 - [chrisleaman/py-wave-runup](https://github.com/chrisleaman/py-wave-runup): Python package with many empirical wave runup equations for sandy beaches.
 - [TomasBeuzen/BeuzenEtAl_GP_Paper](TomasBeuzen/BeuzenEtAl_GP_Paper): Python Juypter notebook demonstrating a Gauassian-Process machine learning implementation of wave runup prediction.
+- [Power et al. (2018) runup data](https://www.sciencedirect.com/science/article/pii/S0378383918302552#appsec1): 1391 wave runup records collated from a variety of sources.
+- [Field Research Facility LiDAR Runup measurements]: Refer to [USA](#usa).
 
 ### Terrestial and UAV video analysis
 - [Coastal Imaging Research Network](https://github.com/Coastal-Imaging-Research-Network): The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
@@ -58,6 +61,8 @@ You pull request or issue should provide a link to a resource and a description 
 - [Coastal Sediment Compartments](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/87838): The entire Australian shoreline broken up into primary, secondary and tertiary sediment comparments.
 - [Smartline](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/104160): Geomorphology data provided for the entire Australian shoreline.
 
+### USA
+- [Field Research Facility, Duck NC](https://frfdataportal.erdc.dren.mil/): Long term monitoring and extensive field campaigns with geomorphology, meteorology, oceanography data sets available for download.
 
 ## Community
 
