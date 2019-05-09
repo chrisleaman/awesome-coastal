@@ -9,6 +9,7 @@ This is a list of resources which coastal engineers and scientists might find us
     - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
     - [Satellite imaging](#satellite-imaging)
   - [Data](#data)
+    - [Global](#global)
     - [Australia](#australia)
   - [Community](#community)
     - [Mailing lists](#mailing-lists)
@@ -33,7 +34,7 @@ You pull request or issue should provide a link to a resource and a description 
 
 ### Wave runup
 - [chrisleaman/py-wave-runup](https://github.com/chrisleaman/py-wave-runup): Python package with many empirical wave runup equations for sandy beaches.
-- [TomasBeuzen/BeuzenEtAl_GP_Paper](TomasBeuzen/BeuzenEtAl_GP_Paper): Python Juypter notebook demonstrating a Gauassian-Process machine learning implementation of wave runup prediction
+- [TomasBeuzen/BeuzenEtAl_GP_Paper](TomasBeuzen/BeuzenEtAl_GP_Paper): Python Juypter notebook demonstrating a Gauassian-Process machine learning implementation of wave runup prediction.
 
 ### Terrestial and UAV video analysis
 - [Coastal Imaging Research Network](https://github.com/Coastal-Imaging-Research-Network): The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
@@ -46,7 +47,14 @@ You pull request or issue should provide a link to a resource and a description 
 
 ## Data
 
+### Global
+- [Aviso FES2014 Global Tide Database](https://www.aviso.altimetry.fr/en/data/products/auxiliary-products/global-tide-fes.html): Predicted tide elevations, currents and loadings on a 1/16 x 1/16 degree grid for anywhere in the world. Simple to use python interface provided at [cnes_aviso/fes](https://bitbucket.org/cnes_aviso/fes/src/master/).
+
+
 ### Australia
+- [Narrabeen-Collaroy Beach Survey Program](http://narrabeen.wrl.unsw.edu.au/): Long-term data set (40+ years) of beach profiles at Narrabeen-Collaroy (Sydney Northern Beaches).
+- [NSW Neashore Wave Transfomation toolbox](http://www.nswaves.com.au/help_toolbox.php): Tools to transform offshore wave contours to 10m and 30m depth contour. Can provide historic nearshore wave conditions based on WaveRider buoys and WaveWatch 3 data from 1980.
+- [Geoscience Australia Intertidal DEM and Composites](https://nationalmap.gov.au/): DEM and satellite composite images for entire Australian coastline. (Click "Add data" -> "Surface Water and Marine" -> "Tidal").
 - [Coastal Sediment Compartments](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/87838): The entire Australian shoreline broken up into primary, secondary and tertiary sediment comparments.
 - [Smartline](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/104160): Geomorphology data provided for the entire Australian shoreline.
 
