@@ -35,7 +35,7 @@ You pull request or issue should provide a link to a resource and a description 
 
 ### Wave runup
 - [chrisleaman/py-wave-runup](https://github.com/chrisleaman/py-wave-runup): Python package with many empirical wave runup equations for sandy beaches.
-- [TomasBeuzen/BeuzenEtAl_GP_Paper](TomasBeuzen/BeuzenEtAl_GP_Paper): Python Juypter notebook demonstrating a Gauassian-Process machine learning implementation of wave runup prediction.
+- [TomasBeuzen/BeuzenEtAl_GP_Paper](https://github.com/TomasBeuzen/BeuzenEtAl_GP_Paper): Python Juypter notebook demonstrating a Gauassian-Process machine learning implementation of wave runup prediction.
 - [Power et al. (2018) runup data](https://www.sciencedirect.com/science/article/pii/S0378383918302552#appsec1): 1391 wave runup records collated from a variety of sources.
 - [Field Research Facility LiDAR Runup measurements]: Refer to [USA](#usa).
 
