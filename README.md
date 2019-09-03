@@ -5,7 +5,7 @@ This is a list of resources which coastal engineers and scientists might find us
 ### Contents
   - [By topic](#by-topic)
     - [Beach erosion](#beach-erosion)
-    - [Wave runup](#wave-runup)
+    - [Wave modelling](#wave-modelling)
     - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
     - [Satellite remote sensing](#Satellite-remote-sensing)
   - [By location](#by-location)
@@ -37,16 +37,18 @@ If you have any resources that could be useful for coastal engineers and scienti
   [ph12]: https://github.com/TomasBeuzen/PH12_Dune_Erosion_Model
   [xbeach]: https://oss.deltares.nl/web/xbeach/
 
-### Wave runup
+### Wave modelling
 - [chrisleaman/py-wave-runup][pywaverunup]: Python package with many empirical wave runup equations for sandy beaches.
 - [TomasBeuzen/BeuzenEtAl_GP_Paper][gaus-process]: Python Juypter notebook demonstrating a Gauassian-Process machine learning implementation of wave runup prediction.
 - [Power et al. (2018) runup data][power]: 1391 wave runup records collated from a variety of sources.
 - [Field Research Facility LiDAR Runup measurements][frf]: Wave runup measurements taken by the LiDAR at the FRF in North Carolina, USA.
+- [SWASH][swash]: SWASH is a general-purpose numerical tool for simulating unsteady, non-hydrostatic, free-surface, rotational flow and transport phenomena in coastal waters as driven by waves, tides, buoyancy and wind forces.
 
   [power]: https://www.sciencedirect.com/science/article/pii/S0378383918302552
   [frf]: https://frfdataportal.erdc.dren.mil/
   [pywaverunup]: https://github.com/chrisleaman/py-wave-runup
   [gaus-process]: https://github.com/TomasBeuzen/BeuzenEtAl_GP_Paper
+  [swash]: http://swash.sourceforge.net/
 
 ### Terrestial and UAV video analysis
 - [Coastal Imaging Research Network][cirn]: The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
