@@ -7,7 +7,7 @@ This is a list of resources which coastal engineers and scientists might find us
     - [Beach erosion](#beach-erosion)
     - [Wave runup](#wave-runup)
     - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
-    - [Satellite imaging](#satellite-imaging)
+    - [Satellite remote sensing](#Satellite-remote-sensing)
   - [By location](#by-location)
     - [Global](#global)
     - [Australia](#australia)
@@ -49,7 +49,7 @@ If you have any resources that could be useful for coastal engineers and scienti
   [gaus-process]: https://github.com/TomasBeuzen/BeuzenEtAl_GP_Paper
 
 ### Terrestial and UAV video analysis
-- [Coastal Imaging Research Network][cirn](: The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
+- [Coastal Imaging Research Network][cirn]: The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
 - [caiostringari/pywavelearn][pywavelearn]: pywavelearn provides a number of python scripts to process video of the swash zone. It provides functions to calibrate and rectify camera images, generate timestacks and classify pixels to track wave breaking.
 - [simmonsja/cnn-shoreline-detect][cnn-shoreline-detect]: Shoreline detection on oblique images of beaches using a HED CNN approach and Python.
 - [dbuscombe-usgs/IR_waveclass][IR_waveclass]: Software and data for training deep convolutional neural network models to classify wave breaker type from IR images of breaking waves in the surf zone using Python.
