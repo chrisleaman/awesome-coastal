@@ -91,12 +91,16 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [Geoscience Australia Intertidal DEM and Composites][intertidal-dem]: DEM and satellite composite images for entire Australian coastline. (Click `Add data` -> `Surface Water and Marine` -> `Tidal`).
 - [Coastal Sediment Compartments][sediment-compartments]: The entire Australian shoreline broken up into primary, secondary and tertiary sediment comparments.
 - [Smartline][smartline]: Geomorphology data provided for the entire Australian shoreline.
+- [Coastal Risk Australia][coastal-risk-aus]: Maps of predicted coastal flooding resulting from climate change
+- [NSW Beach Profile Database]: Beach profiles from 150 locations along the NSW Coast, from as far north as Tweed Heads and to as far south as Eden. Data available for download.
 
   [narrabeen]: http://narrabeen.wrl.unsw.edu.au/
   [nsw-nearshore]: http://www.nswaves.com.au/help_toolbox.php
   [intertidal-dem]: https://nationalmap.gov.au/
   [sediment-compartments]: https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/87838
   [smartline]: https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/104160
+  [coastal-risk-aus]: http://coastalrisk.com.au
+  [nsw-beach-profiles]: http://www.nswbpd.wrl.unsw.edu.au/
 
 ### USA
 - [Field Research Facility, Duck NC][frf]: Long term monitoring and extensive field campaigns with geomorphology, meteorology, oceanography data sets available for download.
