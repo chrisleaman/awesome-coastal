@@ -107,7 +107,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [Coastal Sediment Compartments][sediment-compartments]: The entire Australian shoreline broken up into primary, secondary and tertiary sediment comparments.
 - [Smartline][smartline]: Geomorphology data provided for the entire Australian shoreline.
 - [Coastal Risk Australia][coastal-risk-aus]: Maps of predicted coastal flooding resulting from climate change
-- [NSW Beach Profile Database]: Beach profiles from 150 locations along the NSW Coast, from as far north as Tweed Heads and to as far south as Eden. Data available for download.
+- [NSW Beach Profile Database][nsw-beach-profiles]: Beach profiles from 150 locations along the NSW Coast, from as far north as Tweed Heads and to as far south as Eden. Data available for download.
 
   [narrabeen]: http://narrabeen.wrl.unsw.edu.au/
   [nsw-nearshore]: http://www.nswaves.com.au/help_toolbox.php
