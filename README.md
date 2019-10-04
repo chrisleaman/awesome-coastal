@@ -53,6 +53,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 
 ### Terrestial and UAV video analysis
 - [Coastal Imaging Research Network][cirn]: The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
+- [CoastSnap][coastsnap]: MATLAB toolbox to extract shorelines from pictures of beaches taken by the global community. More info [here][coastsnap1] and [here][coastsnap2].
 - [caiostringari/pywavelearn][pywavelearn]: pywavelearn provides a number of python scripts to process video of the swash zone. It provides functions to calibrate and rectify camera images, generate timestacks and classify pixels to track wave breaking.
 - [simmonsja/cnn-shoreline-detect][cnn-shoreline-detect]: Shoreline detection on oblique images of beaches using a HED CNN approach and Python.
 - [dbuscombe-usgs/IR_waveclass][IR_waveclass]: Software and data for training deep convolutional neural network models to classify wave breaker type from IR images of breaking waves in the surf zone using Python.
@@ -61,6 +62,9 @@ If you have any resources that could be useful for coastal engineers and scienti
   [pywavelearn]: https://oss.deltares.nl/web/xbeach/
   [cnn-shoreline-detect]: https://github.com/simmonsja/cnn-shoreline-detect
   [IR_waveclass]: https://github.com/dbuscombe-usgs/IR_waveclass
+  [coastsnap]: https://github.com/Coastal-Imaging-Research-Network/CoastSnap-Toolbox
+  [coastsnap1]: https://www.environment.nsw.gov.au/research-and-publications/your-research/citizen-science/digital-projects/coastsnap
+  [coastsnap2]: https://www.facebook.com/coastsnap/
 
 
 ### Satellite remote sensing
