@@ -12,6 +12,7 @@ This is a list of resources which coastal engineers and scientists might find us
     - [Global](#global)
     - [Australia](#australia)
     - [USA](#usa)
+    - [UK](#uk)
   - [Community](#community)
     - [Mailing lists](#mailing-lists)
 
@@ -109,6 +110,11 @@ If you have any resources that could be useful for coastal engineers and scienti
   [frf]: https://frfdataportal.erdc.dren.mil/
   [sandiego]: https://www.nature.com/articles/s41597-019-0167-6
 
+
+### UK
+- [Channel Coast Observatory][channel-coast]: Beach profiles, wave and tide data, model predictions for several sites around the UK.
+
+  [channel-coast]: https://www.channelcoast.org/ccoresources/
 
 ## Community
 
