@@ -9,6 +9,7 @@ This is a list of resources which coastal engineers and scientists might find us
     - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
     - [Satellite remote sensing](#Satellite-remote-sensing)
     - [Early warning systems](#Early-warning-systems)
+  - [Related Awesome](#related-awesome) 
   - [By location](#by-location)
     - [Global](#global)
     - [Australia](#australia)
@@ -82,6 +83,10 @@ If you have any resources that could be useful for coastal engineers and scienti
 
   [emilia-romagna]: https://geo.regione.emilia-romagna.it/schede/ews/
   [sweep-owwl]: https://www.channelcoast.org/ccoresources/sweep/
+
+## Related Awesome
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial.
+- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Awesome list for open-source geoscience. Items lean towards subsurface geoscience but significant overlap with coastal geoscience.
 
 ## By location
 
