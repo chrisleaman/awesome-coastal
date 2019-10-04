@@ -90,6 +90,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [WAVEWATCH III][ww3]: Global wave model supplying hindcasts and forecasts around the world. Development has been recentl move to the open-source [NOAA-EMC/WW3][ww3-github] repo.
 - [fitnr/buoyant][buoyant]: Buoyant is a Python wrapper for grabbing buoy data from the National Buoy Data Center. It parses CSV from the SDF endpoint and images from the BuoyCam service.
 - [ECMWF ERA5][era5]: Global climiate reanalysis which includes ocean waves. ERA5 data released so far covers the period from 1979 to 2-3 months before the present.
+- [Global Sea Level Observing System][gloss]: Tide observations from a global network of gauges. 
 
   [aviso]: https://www.aviso.altimetry.fr/en/data/products/auxiliary-products/global-tide-fes.html
   [aviso-fes]: https://bitbucket.org/cnes_aviso/fes/src/master/
@@ -97,6 +98,7 @@ If you have any resources that could be useful for coastal engineers and scienti
   [ww3-github]: https://github.com/NOAA-EMC/WW3
   [buoyant]: https://github.com/fitnr/buoyant
   [era5]: https://confluence.ecmwf.int/display/CKB/ERA5+data+documentation
+  [gloss]: https://www.psmsl.org/data/
 
 ### Australia
 - [Narrabeen-Collaroy Beach Survey Program][narrabeen]: Long-term data set (40+ years) of beach profiles at Narrabeen-Collaroy (Sydney Northern Beaches).
