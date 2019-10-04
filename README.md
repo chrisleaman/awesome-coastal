@@ -8,6 +8,7 @@ This is a list of resources which coastal engineers and scientists might find us
     - [Wave modelling](#wave-modelling)
     - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
     - [Satellite remote sensing](#Satellite-remote-sensing)
+    - [Early warning systems](#Early-warning-systems)
   - [By location](#by-location)
     - [Global](#global)
     - [Australia](#australia)
@@ -74,6 +75,13 @@ If you have any resources that could be useful for coastal engineers and scienti
 
   [coastsat]: https://github.com/kvos/CoastSat
   [EarthAnnotator]: https://github.com/dbuscombe-usgs/EarthAnnotator
+
+### Early warning systems
+- [Emilia-Romagna Storm Early Warning System][emilia-romagna]: Storm impact early warning system for the Italian coastline.
+- [SWEEP OWWL][sweep-owwl]: Wave overtopping forecasting system for the southwest coast of the UK.
+
+  [emilia-romagna]: https://geo.regione.emilia-romagna.it/schede/ews/
+  [sweep-owwl]: https://www.channelcoast.org/ccoresources/sweep/
 
 ## By location
 
