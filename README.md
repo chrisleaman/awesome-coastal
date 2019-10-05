@@ -46,12 +46,14 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [Power et al. (2018) runup data][power]: 1391 wave runup records collated from a variety of sources.
 - [Field Research Facility LiDAR Runup measurements][frf]: Wave runup measurements taken by the LiDAR at the FRF in North Carolina, USA.
 - [SWASH][swash]: SWASH is a general-purpose numerical tool for simulating unsteady, non-hydrostatic, free-surface, rotational flow and transport phenomena in coastal waters as driven by waves, tides, buoyancy and wind forces.
+- [umwm/umwm][umwm]: Opensource code University of Miami Wave Model, a third-generation spectral ocean wave model.
 
   [power]: https://www.sciencedirect.com/science/article/pii/S0378383918302552
   [frf]: https://frfdataportal.erdc.dren.mil/
   [pywaverunup]: https://github.com/chrisleaman/py-wave-runup
   [gaus-process]: https://github.com/TomasBeuzen/BeuzenEtAl_GP_Paper
   [swash]: http://swash.sourceforge.net/
+  [umwm]: https://github.com/umwm/umwm
 
 ### Terrestial and UAV video analysis
 - [Coastal Imaging Research Network][cirn]: The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
@@ -85,8 +87,13 @@ If you have any resources that could be useful for coastal engineers and scienti
   [sweep-owwl]: https://www.channelcoast.org/ccoresources/sweep/
 
 ## Related Awesome
-- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial.
-- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Awesome list for open-source geoscience. Items lean towards subsurface geoscience but significant overlap with coastal geoscience.
+- [Awesome-Spatial][awesome-spatial]: Awesome list for geospatial.
+- [Awesome Open Geoscience][awesome-geoscience]: Awesome list for open-source geoscience. Items lean towards subsurface geoscience but significant overlap with coastal geoscience.
+- [Awesome Open Climate Science][awesome-climate]: Awesome list for atmospheric, ocean, aWnd climate sciences.
+
+  [awesome-spatial]: https://github.com/RoboDonut/awesome-spatial
+  [awesome-geoscience]: https://github.com/softwareunderground/awesome-open-geoscience
+  [awesome-climate]: https://github.com/pangeo-data/awesome-open-climate-science
 
 ## By location
 
