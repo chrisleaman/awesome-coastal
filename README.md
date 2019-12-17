@@ -56,6 +56,9 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [caiostringari/pywavelearn](https://oss.deltares.nl/web/xbeach/): pywavelearn provides a number of python scripts to process video of the swash zone. It provides functions to calibrate and rectify camera images, generate timestacks and classify pixels to track wave breaking.
 - [simmonsja/cnn-shoreline-detect](https://github.com/simmonsja/cnn-shoreline-detect): Shoreline detection on oblique images of beaches using a HED CNN approach and Python.
 - [dbuscombe-usgs/IR_waveclass](https://github.com/dbuscombe-usgs/IR_waveclass): Software and data for training deep convolutional neural network models to classify wave breaker type from IR images of breaking waves in the surf zone using Python. 
+- 🆕 [rgerum/cameratransform](https://github.com/rgerum/cameratransform): Python package to fit camera properties and perform transformation from pixel to real-world coordinates and back again.
+- 🆕 [conlin-matt/SurfRCaT](https://github.com/conlin-matt/SurfRCaT): Surf-Camera remote calibration tool that allows for the rectification of imagery from any coastal camera that views structures identifiable in lidar data.
+- 🆕 [jonghyunharrylee/pyPCGA](https://github.com/jonghyunharrylee/pyPCGA/blob/master/examples/stwave_duck/inversion_stwave.ipynb): Example of bathymetric invesion using STWAVE.
 
 
 ### Satellite remote sensing
@@ -76,34 +79,47 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [fitnr/buoyant](https://github.com/fitnr/buoyant): Buoyant is a Python wrapper for grabbing buoy data from the National Buoy Data Center. It parses CSV from the SDF endpoint and images from the BuoyCam service.
 - [ECMWF ERA5](https://confluence.ecmwf.int/display/CKB/ERA5+data+documentation): Global climiate reanalysis which includes ocean waves. ERA5 data released so far covers the period from 1979 to 2-3 months before the present.
 - [Global Sea Level Observing System](https://www.psmsl.org/data/): Tide observations from a global network of gauges. 
+- 🆕 [Global Extreme Sea Level Analysis](https://www.gesla.org/): Worldwide dataset of frequency and magnitude of extreme sea levels.
+- 🆕 [GEBCO global bathymetry](https://www.gebco.net/data_and_products/gridded_bathymetry_data/): Global terrain model for ocean and land at 15 arc-second intervals.
+- 🆕 [OpenCoastS](https://opencoasts.ncg.ingrid.pt/): On-demand ocean forecasting system for coastal areas providing water levels, velocities and wave parameters.
+- 🆕 [MERIT DEM](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/): Improved global DEM at 3 arc-second resolution.
+- 🆕 [CoastalDEM](https://go.climatecentral.org/coastaldem/): Global DEM with improved error correction around coastal areas.
+
 
 ### Australia
 - [Narrabeen-Collaroy Beach Survey Program](http://narrabeen.wrl.unsw.edu.au/): Long-term data set (40+ years) of beach profiles at Narrabeen-Collaroy (Sydney Northern Beaches).
 - [NSW Neashore Wave Transfomation toolbox](http://www.nswaves.com.au/help_toolbox.php): Tools to transform offshore wave contours to 10m and 30m depth contour. Can provide historic nearshore wave conditions based on WaveRider buoys and WaveWatch 3 data from 1980.
 - [Geoscience Australia Intertidal DEM and Composites](https://nationalmap.gov.au/): DEM and satellite composite images for entire Australian coastline. (Click `Add data` -> `Surface Water and Marine` -> `Tidal`).
 - [Coastal Sediment Compartments](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/87838): The entire Australian shoreline broken up into primary, secondary and tertiary sediment comparments.
-- [Smartline][(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata104160): Geomorphology data provided for the entire Australian shoreline.
+- [Smartline](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata104160): Geomorphology data provided for the entire Australian shoreline.
 - [Coastal Risk Australia](http://coastalrisk.com.au): Maps of predicted coastal flooding resulting from climate change
 - [NSW Beach Profile Database](http://www.nswbpd.wrl.unsw.edu.au/): Beach profiles from 150 locations along the NSW Coast, from as far north as Tweed Heads and to as far south as Eden. Data available for download.
+- 🆕 [Australian Ocean Data Network](https://portal.aodn.org.au/search): The AODN Portal provides access to all available Australian marine and climate science data.
+- 🆕 [CAWCR Wave Hindcast](https://data.csiro.au/collections/#collection/CIcsiro:39819/BTkw/BVwave/RP1/RS25/RORELEVANCE/STnull/RI1/RT4/): WaveWatch III hindcast with high resolutions in the Western Pacific and Australian regions. Hindcast dates available from 1979 to 2014.
+- 🆕 [Extreme Sea Levels in Australia](http://sealevelx.ems.uwa.edu.au/): Present day extreme sea level statistics around Australia.
+
+### New Zealand
+- 🆕 [NZ Storm Surge Hindcast](https://uoa-eresearch.github.io/storm_surge/#Model_20CR@1871-01-01): Hindcast of NZ storm surge at 0.25 degrees.
 
 ### USA
 - [Field Research Facility, Duck NC](https://frfdataportal.erdc.dren.mil/): Long term monitoring and extensive field campaigns with geomorphology, meteorology, oceanography data sets available for download.
 - [San Diego beach dataset](https://www.nature.com/articles/s41597-019-0167-6): Beach profiles and wave conditions at three southern California beaches during 2001-2016. (Ludka et al, 2019)
+- 🆕 [SECOORA Data Portal](https://portal.secoora.org/): Centralized access to Southeast U.S. coastal and ocean data.
 
 
-### UK
+### Europe
 - [Channel Coast Observatory](https://www.channelcoast.org/ccoresources/): Beach profiles, wave and tide data, model predictions for several sites around the UK.
+- 🆕 [Ruessink et al, 2019](https://zenodo.org/record/2635416): A multi-year data set of beach-foredune topography and environmental forcing conditions at Egmond aan Zee, the Netherlands.
 
 
 ## Community
-
-### Mailing lists
-- [Coastal List](https://groups.google.com/a/udel.edu/forum/#!categories/coastal_list):
-  Possibly the largest coastal engineer/scientist mailing list with over 6800 subscribers. Run by the University of Delware, job ads, student opportunities, workshops, training courses and conferences are all posted here.
+- [Coastal List](https://groups.google.com/a/udel.edu/forum/#!categories/coastal_list): Possibly the largest coastal engineer/scientist mailing list with over 6800 subscribers. Run by the University of Delware, job ads, student opportunities, workshops, training courses and conferences are all posted here.
+- 🆕 [Earth science jobs list](https://docs.google.com/spreadsheets/d/1-i6zRM8aQnLswnpQOmqUZ3zqzph9L7hg5kccIkqiA80/edit#gid=989950331): Google spreadsheet of list of available earth science faculty jobs.
 
 
-## Related awesome lists
+## Related lists
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial): Awesome list for geospatial.
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience): Awesome list for open-source geoscience. Items lean towards subsurface geoscience but significant overlap with coastal geoscience.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science): Awesome list for atmospheric, ocean, aWnd climate sciences.
+- 🆕 [SpatialPoints.com Useful Resources](http://www.spatialpoints.com/category/resources/): The Spatial Sciences Group at The University of Adelaide's list of useful resources.
 
