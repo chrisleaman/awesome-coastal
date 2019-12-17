@@ -1,8 +1,27 @@
 # awesome-coastal
 This is a list of resources which coastal engineers and scientists might find useful. Since we're a fairly niche discipline, it's often difficult to find out about all the great things out in the community! This list brings together useful data-sets, tools and scripts that people might not have been aware of.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+### Contents
+
+  - [Contributing](#contributing)
+- [By topic](#by-topic)
+  - [Beach erosion](#beach-erosion)
+  - [Wave modelling](#wave-modelling)
+  - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
+  - [Satellite remote sensing](#satellite-remote-sensing)
+  - [Early warning systems](#early-warning-systems)
+- [Related Awesome](#related-awesome)
+- [By location](#by-location)
+  - [Global](#global)
+  - [Australia](#australia)
+  - [USA](#usa)
+  - [UK](#uk)
+- [Community](#community)
+  - [Mailing lists](#mailing-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ----
 
