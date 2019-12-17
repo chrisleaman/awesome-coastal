@@ -12,14 +12,14 @@ This is a list of resources which coastal engineers and scientists might find us
   - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
   - [Satellite remote sensing](#satellite-remote-sensing)
   - [Early warning systems](#early-warning-systems)
-- [Related Awesome](#related-awesome)
 - [By location](#by-location)
   - [Global](#global)
   - [Australia](#australia)
+  - [New Zealand](#new-zealand)
   - [USA](#usa)
-  - [UK](#uk)
+  - [Europe](#europe)
 - [Community](#community)
-  - [Mailing lists](#mailing-lists)
+- [Related lists](#related-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
