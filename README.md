@@ -65,6 +65,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [kvos/CoastSat](https://github.com/kvos/CoastSat): CoastSat is a python package which
   processes LandSat imagery (over 30 years available) and extracts shorelines using a sub-pixel resolution technique.
 - [dbuscombe-usgs/EarthAnnotator](https://github.com/dbuscombe-usgs/EarthAnnotator): A tool for web-based image annotation and efficient labeling pixels in images using Python
+- 🆕 [Subpixel_waterlines](https://github.com/GeoscienceAustralia/dea-notebooks/tree/subpixel_waterlines): Python code and Jupyter Notebooks for extracting sub-pixel resolution waterlines from large multidimensional satellite datasets (e.g. from Open Data Cube or Google Earth Engine)
 
 ### Early warning systems
 - [Emilia-Romagna Storm Early Warning System](https://geo.regione.emilia-romagna.it/schede/ews/): Storm impact early warning system for the Italian coastline.
@@ -89,7 +90,8 @@ If you have any resources that could be useful for coastal engineers and scienti
 ### Australia
 - [Narrabeen-Collaroy Beach Survey Program](http://narrabeen.wrl.unsw.edu.au/): Long-term data set (40+ years) of beach profiles at Narrabeen-Collaroy (Sydney Northern Beaches).
 - [NSW Neashore Wave Transfomation toolbox](http://www.nswaves.com.au/help_toolbox.php): Tools to transform offshore wave contours to 10m and 30m depth contour. Can provide historic nearshore wave conditions based on WaveRider buoys and WaveWatch 3 data from 1980.
-- [Geoscience Australia Intertidal DEM and Composites](https://nationalmap.gov.au/): DEM and satellite composite images for entire Australian coastline. (Click `Add data` -> `Surface Water and Marine` -> `Tidal`).
+- [Geoscience Australia Intertidal DEM (NIDEM) and High/Low Tide Composites](https://nationalmap.gov.au/): DEM and satellite composite images at low and high tide for entire Australian coastline. (Click `Explore data` -> `Marine and Oceans` -> `Coastal`).
+- 🆕 [AusSeabed Marine Data Discovery](https://marine.ga.gov.au/#/): Geoscience Australia’s marine data discovery interface for coastal and seafloor mapping products (e.g. bathymetry, backscatter and sidescan sonar data etc)
 - [Coastal Sediment Compartments](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/87838): The entire Australian shoreline broken up into primary, secondary and tertiary sediment comparments.
 - [Smartline](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata104160): Geomorphology data provided for the entire Australian shoreline.
 - [Coastal Risk Australia](http://coastalrisk.com.au): Maps of predicted coastal flooding resulting from climate change
