@@ -48,6 +48,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [Field Research Facility LiDAR Runup measurements](https://frfdataportal.erdc.dren.mil/): Wave runup measurements taken by the LiDAR at the FRF in North Carolina, USA.
 - [SWASH](http://swash.sourceforge.net/): SWASH is a general-purpose numerical tool for simulating unsteady, non-hydrostatic, free-surface, rotational flow and transport phenomena in coastal waters as driven by waves, tides, buoyancy and wind forces.
 - [umwm/umwm](https://github.com/umwm/umwm): Opensource code University of Miami Wave Model, a third-generation spectral ocean wave model.
+- 🆕 [georgebv/coastlib](https://github.com/georgebv/coastlib): coastlib is a Python library dedicated to solving problems related to the discipline of coastal engineering, such as enivronmental data collection (NOAA CO-OPS and NCEI, and WAVEWATCH III, etc.), extreme value analysis (EVA), data analysis and visualization, wave theories, and many more.
 
 
 ### Terrestial and UAV video analysis
