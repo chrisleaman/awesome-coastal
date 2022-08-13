@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/chrisleaman/awesome-coastal/">
-    <img src="logo/logo.svg" alt="Master">
+    <img src="logo/logo.svg" alt="Master" height="250">
   </a>
 </p>
 
