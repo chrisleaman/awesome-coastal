@@ -14,11 +14,12 @@ This is a list of resources which coastal engineers and scientists might find us
 
   - [Contributing](#contributing)
 - [By topic](#by-topic)
-  - [Beach erosion](#beach-erosion)
+  - [Storm impacts (beach erosion, dune erosion etc.)](#storm-impacts-beach-erosion-dune-erosion-etc)
   - [Wave modelling](#wave-modelling)
   - [Terrestial and UAV video analysis](#terrestial-and-uav-video-analysis)
   - [Satellite remote sensing](#satellite-remote-sensing)
   - [Early warning systems](#early-warning-systems)
+  - [Sediment size](#sediment-size)
 - [By location](#by-location)
   - [Global](#global)
   - [Australia](#australia)
