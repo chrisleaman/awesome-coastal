@@ -45,7 +45,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 ## By topic
 
 ### Storm impacts (beach erosion, dune erosion etc.)
-- [TomasBeuzen/autobeach](https://github.com/TomasBeuzen/PH12_Dune_Erosion_Model): Python tool for automatically identifying beach profile features such as dune toes, dune crests, beach width and beach slopes.
+- [TomasBeuzen/pybeach](https://github.com/TomasBeuzen/pybeach): Python tool for automatically identifying beach profile features such as dune toes, dune crests, beach width and beach slopes.
 - [TomasBeuzen/PH12_Dune_Erosion_Model](https://github.com/TomasBeuzen/PH12_Dune_Erosion_Model): Matlab and Python implementations of dune erosion models.
 - [XBeach](https://oss.deltares.nl/web/xbeach/): Open sourced, processed-based model for beach and dune erosion.
 - 🆕 [danoroelvink/shorelines](https://github.com/danoroelvink/shorelines): Free-form coastline simulation with the ShorelineS program ([journal article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00535/full)).
