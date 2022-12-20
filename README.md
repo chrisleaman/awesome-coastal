@@ -83,7 +83,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 ### Satellite remote sensing
 - 🆕[mcuttler/CoastSat.islands](https://github.com/mcuttler/CoastSat.islands): An extension of CoastSat adapted to measure the planform area of islands.
 - 🆕[Sentinel-2 Water Edges Dataset](https://openmldata.ukho.gov.uk/): A dataset for deep learning applications containing annotated Sentinel-2 imagery.
-- [kvos/CoastSat](https://github.com/kvos/CoastSat): CoastSat is a python package which
+- [kvos/CoastSat](https://github.com/kvos/CoastSat): ![](https://img.shields.io/github/last-commit/kvos/coastsat?style=flat-square) ![](https://img.shields.io/github/stars/kvos/coastsat?style=flat-square) CoastSat is a python package which
   processes LandSat imagery (over 30 years available) and extracts shorelines using a sub-pixel resolution technique.
 - [dbuscombe-usgs/EarthAnnotator](https://github.com/dbuscombe-usgs/EarthAnnotator): A tool for web-based image annotation and efficient labeling pixels in images using Python
 - 🆕 [Subpixel_waterlines](https://github.com/GeoscienceAustralia/dea-notebooks/tree/subpixel_waterlines): Python code and Jupyter Notebooks for extracting sub-pixel resolution waterlines from large multidimensional satellite datasets (e.g. from Open Data Cube or Google Earth Engine)
