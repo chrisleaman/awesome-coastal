@@ -67,6 +67,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 
 
 ### Terrestial and UAV video analysis
+- 🆕 [mikeyt120/coastal-glare-estimation](https://github.com/mikeyt120/coastal-glare-estimation): A globally verified, Python tool to estimate when coastal observations are affected by glare.
 - 🆕 [caiostringar/picoastal](https://github.com/caiostringari/picoastal): Coastal video monitoring using a Raspberry Pi.
 - 🆕 [caiostringar/deepwaves](https://github.com/caiostringari/deepwaves): Identifying wave breaking in videos.
 - [Coastal Imaging Research Network](https://github.com/Coastal-Imaging-Research-Network): The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
