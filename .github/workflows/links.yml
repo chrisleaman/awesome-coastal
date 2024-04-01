@@ -15,6 +15,9 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          # Check all markdown and html files in repo (default)
+          args: --insecure --timeout 30 --retry-wait-time 3
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
