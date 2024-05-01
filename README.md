@@ -82,6 +82,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 
 
 ### Satellite remote sensing
+- 🆕[SatelliteShorelines/CoastSeg](https://github.com/dbuscombe-usgs/CoastSeg): An interactive toolbox for downloading satellite imagery, applying image segmentation models, mapping shoreline positions and more. 
 - 🆕[mcuttler/CoastSat.islands](https://github.com/mcuttler/CoastSat.islands): An extension of CoastSat adapted to measure the planform area of islands.
 - 🆕[Sentinel-2 Water Edges Dataset](https://openmldata.ukho.gov.uk/): A dataset for deep learning applications containing annotated Sentinel-2 imagery.
 - [kvos/CoastSat](https://github.com/kvos/CoastSat): ![](https://img.shields.io/github/last-commit/kvos/coastsat?style=flat-square) ![](https://img.shields.io/github/stars/kvos/coastsat?style=flat-square) CoastSat is a python package which
@@ -96,6 +97,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 
 ### Sediment size
 - 🆕 [SandSnap](https://sandsnap-erdcchl.hub.arcgis.com/): A collaborative project engaging citizen scientists in creating a sand grain database and educating the next generation about coastal processes.
+- 🆕 [UNCG-DAISY/Instagrain](https://github.com/UNCG-DAISY/Instagrain): A camera for measuring sediment grain sizes with edge ML.
 
 ## By location
 
