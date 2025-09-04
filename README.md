@@ -64,6 +64,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [SWASH](http://swash.sourceforge.net/): SWASH is a general-purpose numerical tool for simulating unsteady, non-hydrostatic, free-surface, rotational flow and transport phenomena in coastal waters as driven by waves, tides, buoyancy and wind forces.
 - [umwm/umwm](https://github.com/umwm/umwm): Opensource code University of Miami Wave Model, a third-generation spectral ocean wave model.
 - 🆕 [georgebv/coastlib](https://github.com/georgebv/coastlib): coastlib is a Python library dedicated to solving problems related to the discipline of coastal engineering, such as enivronmental data collection (NOAA CO-OPS and NCEI, and WAVEWATCH III, etc.), extreme value analysis (EVA), data analysis and visualization, wave theories, and many more.
+- 🆕 [TormodLandet/raschii](https://github.com/TormodLandet/raschii): A Python implementation of nonlinear regular wave theories (Stokes 2nd to 5th order and Fenton stream function waves)
 
 
 ### Terrestial and UAV video analysis
@@ -72,7 +73,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - 🆕 [caiostringar/deepwaves](https://github.com/caiostringari/deepwaves): Identifying wave breaking in videos.
 - [Coastal Imaging Research Network](https://github.com/Coastal-Imaging-Research-Network): The CIRN organisation provides toolboxes to estimate bathymetry from video (cBathy) taken from fixed ARGUS stations or UAVs. Repos include the cBathy toolbox, UAV processing toolbox and image calibration and rectification routines. Currently all code uses MATLAB.
 - 🆕 [mailemccann/coastalimagelib](https://github.com/mailemccann/coastalimagelib): Python-based library that produces common coastal image products intended for quantitative analysis of coastal environments. 
-- [CoastSnap](https://github.com/Coastal-Imaging-Research-Network/CoastSnap-Toolbox): MATLAB toolbox to extract shorelines from pictures of beaches taken by the global community. More info [here](https://www.environment.nsw.gov.au/research-and-publications/your-research/citizen-science/digital-projects/coastsnap) and [here](https://www.facebook.com/coastsnap/).
+- [CoastSnap](https://github.com/Coastal-Imaging-Research-Network/CoastSnap-Toolbox): MATLAB toolbox to extract shorelines from pictures of beaches taken by the global community. More info [here](https://www.coastsnap.com/) and [here](https://www.facebook.com/coastsnap/).
 - [caiostringari/pywavelearn](https://oss.deltares.nl/web/xbeach/): pywavelearn provides a number of python scripts to process video of the swash zone. It provides functions to calibrate and rectify camera images, generate timestacks and classify pixels to track wave breaking.
 - [simmonsja/cnn-shoreline-detect](https://github.com/simmonsja/cnn-shoreline-detect): Shoreline detection on oblique images of beaches using a HED CNN approach and Python.
 - [dbuscombe-usgs/IR_waveclass](https://github.com/dbuscombe-usgs/IR_waveclass): Software and data for training deep convolutional neural network models to classify wave breaker type from IR images of breaking waves in the surf zone using Python. 
@@ -111,7 +112,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [Aviso FES2014 Global Tide Database](https://www.aviso.altimetry.fr/en/data/products/auxiliary-products/global-tide-fes.html): Predicted tide elevations, currents and loadings on a 1/16 x 1/16 degree grid for anywhere in the world. Simple to use python interface provided at [cnes_aviso/fes](https://bitbucket.org/cnes_aviso/fes/src/master/).
 - [WAVEWATCH III](https://polar.ncep.noaa.gov/waves/): Global wave model supplying hindcasts and forecasts around the world. Development has been recentl move to the open-source [NOAA-EMC/WW3](https://github.com/NOAA-EMC/WW3) repo.
 - [fitnr/buoyant](https://github.com/fitnr/buoyant): Buoyant is a Python wrapper for grabbing buoy data from the National Buoy Data Center. It parses CSV from the SDF endpoint and images from the BuoyCam service.
-- [ECMWF ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5): Global climiate reanalysis which includes ocean waves. ERA5 data released so far covers the period from 1979 to 2-3 months before the present.
+- [ECMWF ERA5](https://www.ecmwf.int/en/forecasts/datasets): Global climiate reanalysis which includes ocean waves. ERA5 data released so far covers the period from 1979 to 2-3 months before the present.
 - [Global Sea Level Observing System](https://www.psmsl.org/data/): Tide observations from a global network of gauges. 
 - [Global Extreme Sea Level Analysis](https://www.gesla.org/): Worldwide dataset of frequency and magnitude of extreme sea levels.
 - [GEBCO global bathymetry](https://www.gebco.net/data_and_products/gridded_bathymetry_data/): Global terrain model for ocean and land at 15 arc-second intervals.
