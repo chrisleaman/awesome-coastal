@@ -119,6 +119,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [OpenCoastS](https://opencoasts.ncg.ingrid.pt/): On-demand ocean forecasting system for coastal areas providing water levels, velocities and wave parameters.
 - [MERIT DEM](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/): Improved global DEM at 3 arc-second resolution.
 - [CoastalDEM](https://go.climatecentral.org/coastaldem/): Global DEM with improved error correction around coastal areas.
+- [Wavespectra](https://github.com/wavespectra/wavespectra): Python library for ocean wave spectral data analysis and processing.
 
 ### Australia
 - 🆕 [CoastKit Victoria](https://mapshare.vic.gov.au/coastkit/): Collection of coastal infrastructure, assets, hazards and monitoring information for the Victorian coastline.
