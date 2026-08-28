@@ -149,6 +149,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 - [NZ Storm Surge Hindcast](https://uoa-eresearch.github.io/storm_surge/#Model_20CR@1871-01-01): Hindcast of NZ storm surge at 0.25 degrees.
 
 ### USA
+- 🆕 [Tidewindow](https://thetidewindow.com/): Computes daylight low-tide windows from NOAA tide predictions for 12 US stations (WA, OR, CA, ME) — year heatmap, ICS calendar feeds per station, and a downloadable daylight minus-tide index (CSV). Useful for scheduling intertidal fieldwork around workable low tides. Open source at [Vessarey/tidewindow](https://github.com/Vessarey/tidewindow).
 - 🆕[U.S. Interagency Elevation Inventory](https://coast.noaa.gov/inventory/): Nationwide listing of publically available topography and bathymetry for the US.
 - 🆕 [UNCG-DAISY/psi-collect](https://github.com/UNCG-DAISY/psi-collect): Collect Post-Storm Imagery from NOAA.
 - [Field Research Facility, Duck NC](https://frfdataportal.erdc.dren.mil/): Long term monitoring and extensive field campaigns with geomorphology, meteorology, oceanography data sets available for download.
