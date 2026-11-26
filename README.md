@@ -103,6 +103,7 @@ If you have any resources that could be useful for coastal engineers and scienti
 ## By location
 
 ### Global
+- 🆕 [Ocean Depth Map](https://depth.hertzmc.com/): Free phone and web map of the approximate sea depth under your GPS position or anywhere you tap, from the GEBCO grid (cells about 450 m) with NOAA survey depths (cells about 30 m) in US coastal waters. Every reading names its source and cell size. Not for navigation.
 - 🆕 [Seascape](https://openwaters.io/charts/seascape): Free web map tiles of global bathymetry merged from GEBCO and 22 regional open sources, with depth contours, spot soundings, and drying areas for MapLibre/Mapbox GL.
 - 🆕 [Coastal Futures](https://coastal-futures.org/): A one stop viewer for 21st century projections of climatic impact-drivers  (CIDs) leading to coastal impacts and risk
 - 🆕 [Blue Earth Data](https://blueearthdata.org/data/w): Global water data platform providing water level, wind, wave forecasts by Deltares.
